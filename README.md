@@ -1,7 +1,9 @@
 👋 Hi, I’m @Timchacode
-![no-Placeholder](https://user-images.githubusercontent.com/65017420/133946452-e51028d7-b552-483d-b1a7-69e70a0e0d1c.PNG)
 
 👀 I’m interested in web development
+
+![no-Placeholder](https://user-images.githubusercontent.com/65017420/133946471-5b06a24a-eb90-4cfb-811b-8b59eb40242a.PNG)
+
 
 🌱 I’m currently learning react and express
 
